@@ -14,7 +14,7 @@ export const GET = async (request) => {
       },
     },
     orderBy: {
-      title: "asc",
+      courseNo: "asc",
     },
   });
 
